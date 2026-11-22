@@ -1,0 +1,29 @@
+# Secrets and personal data - never upload these
+.env
+.env.*
+!.env.example
+contacts.json
+events.json
+jarvis_crash.log
+*.log
+*.rtf
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Models, caches and generated files
+models/
+model/
+vosk-model*/
+*.wav
+*.mp3
+Jarvis Notes/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+psutil
+sounddevice
+soundfile
+vosk
+faster-whisper
+numpy
+edge-tts
+pywinauto
+python-dotenv
+icalendar
+recurring-ical-events
+opencv-python
